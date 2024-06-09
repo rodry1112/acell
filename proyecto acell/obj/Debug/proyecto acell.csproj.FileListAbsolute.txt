@@ -1,0 +1,15 @@
+C:\Users\AMD Ryzen 5 3500U\source\repos\proyecto acell\proyecto acell\obj\Debug\proyecto acell.csproj.AssemblyReference.cache
+C:\Users\AMD Ryzen 5 3500U\source\repos\proyecto acell\proyecto acell\obj\Debug\proyecto acell.csproj.SuggestedBindingRedirects.cache
+C:\Users\AMD Ryzen 5 3500U\source\repos\proyecto acell\proyecto acell\obj\Debug\proyecto_acell.Properties.Resources.resources
+C:\Users\AMD Ryzen 5 3500U\source\repos\proyecto acell\proyecto acell\obj\Debug\proyecto acell.csproj.GenerateResource.cache
+C:\Users\AMD Ryzen 5 3500U\source\repos\proyecto acell\proyecto acell\obj\Debug\proyecto acell.csproj.CoreCompileInputs.cache
+C:\Users\AMD Ryzen 5 3500U\source\repos\proyecto acell\proyecto acell\bin\Debug\proyecto acell.exe.config
+C:\Users\AMD Ryzen 5 3500U\source\repos\proyecto acell\proyecto acell\bin\Debug\proyecto acell.exe
+C:\Users\AMD Ryzen 5 3500U\source\repos\proyecto acell\proyecto acell\bin\Debug\proyecto acell.pdb
+C:\Users\AMD Ryzen 5 3500U\source\repos\proyecto acell\proyecto acell\obj\Debug\proyecto acell.exe
+C:\Users\AMD Ryzen 5 3500U\source\repos\proyecto acell\proyecto acell\obj\Debug\proyecto acell.pdb
+C:\Users\AMD Ryzen 5 3500U\source\repos\proyecto acell\proyecto acell\obj\Debug\proyecto_acell.inventario.resources
+C:\Users\AMD Ryzen 5 3500U\source\repos\proyecto acell\proyecto acell\obj\Debug\proyecto_acell.registrousuario.resources
+C:\Users\AMD Ryzen 5 3500U\source\repos\proyecto acell\proyecto acell\obj\Debug\proyecto_acell.crearnuevoempleado.resources
+C:\Users\AMD Ryzen 5 3500U\source\repos\proyecto acell\proyecto acell\obj\Debug\proyecto_acell.realizarventacs.resources
+C:\Users\AMD Ryzen 5 3500U\source\repos\proyecto acell\proyecto acell\obj\Debug\proyecto_acell.mainformacell.resources
